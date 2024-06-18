@@ -19,6 +19,6 @@ I assumed a linear relationship between the features and the log-odds of the tar
 ## Random Forest: 
 an  ensemble method based on decision trees, making fewer assumptions about the data distribution. Key parameter considered is max depth (maximum depth of each tree), which influenced the model's complexity and ability to capture patterns in the data. 
 ## XGBoost: 
-used as an ensemble method based on decision trees, thus making fewer assumptions about the underlying data distribution compared to linear models. They key parameters included learning rate (controls the step size during training) and max depth (maximum depth of each tree), which influenced the model's complexity and ability to capture patterns in the data. Its implementation can be seen in figure 7.
+used as an ensemble method based on decision trees, thus making fewer assumptions about the underlying data distribution compared to linear models. The key parameters included learning rate (controls the step size during training) and max depth (maximum depth of each tree), which influenced the model's complexity and ability to capture patterns in the data. Its implementation can be seen in figure 7.
 ## Neural Network: 
 key parameters considered included the learning rate (controls the size of the step taken during optimization) and the number of epochs (number of times the entire dataset is passed forward and backward through the network during training).
